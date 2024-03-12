@@ -1,0 +1,19 @@
+
+.navbar {
+    background-color: rgb(1, 6, 27);
+  }
+  
+  .nav-links {
+    list-style-type: none;
+    display: flex;
+  }
+  
+  .nav-links li {
+    margin-right: 20px;
+  }
+  
+  .nav-links li a {
+    text-decoration: none;
+    color: white;
+  }
+  
